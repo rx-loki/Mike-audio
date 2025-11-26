@@ -1,0 +1,7 @@
+{
+  "name": "Mike-audio",
+  "description": "A futuristic real-time audio and text translation application featuring a stunning Glassmorphism UI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
